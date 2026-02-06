@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
 - **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
 
 **Previous:**
