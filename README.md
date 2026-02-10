@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
-- **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
+- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/_HegtAmj8o4)
 
 **Previous:**
+- **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
+- **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
 - **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
 - **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
 - **84.** [How to Build a Live Volatility Surface in Python (Interactive Brokers)](https://youtu.be/5JEeAsQqlro)
