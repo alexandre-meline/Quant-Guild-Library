@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
-- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
+- **91.** [How Goldman Sachs Prices Variance Swaps](https://youtu.be/ac3LDVGK97Q)
 
 **Previous:**
+- **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
+- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
 - **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
 - **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
 - **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
