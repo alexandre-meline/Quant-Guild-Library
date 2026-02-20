@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **92.** [Kalman Filter for Quant Finance](https://youtu.be/zVJY_oaVh-0)
 - **91.** [How Goldman Sachs Prices Variance Swaps](https://youtu.be/ac3LDVGK97Q)
 
 **Previous:**
