@@ -15,6 +15,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **94.** [Hawkes Processes for Quant Finance](https://youtu.be/BotPHbWFRUA)
 - **93.** [Non-Stationarity and Why Market Timing Fails](https://youtu.be/7nvjrgqKjJE)
 
 **Previous:**
