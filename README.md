@@ -15,10 +15,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **94.** [Hawkes Processes for Quant Finance](https://youtu.be/BotPHbWFRUA)
-- **93.** [Non-Stationarity and Why Market Timing Fails](https://youtu.be/7nvjrgqKjJE)
+- **95.** [Trading Mean Reversion with Kalman Filters](https://youtu.be/BuPil7nXvMU)
 
 **Previous:**
+- **94.** [Hawkes Processes for Quant Finance](https://youtu.be/BotPHbWFRUA)
+- **93.** [Non-Stationarity and Why Market Timing Fails](https://youtu.be/7nvjrgqKjJE)
 - **92.** [Kalman Filters for Quant Finance](https://youtu.be/zVJY_oaVh-0)
 - **91.** [How Goldman Sachs Prices Variance Swaps](https://youtu.be/24-wC8RI7BA)
 - **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
