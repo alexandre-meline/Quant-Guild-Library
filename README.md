@@ -15,6 +15,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **96.** [I Bet You've Never Found Alpha (and I Can Prove It)](https://youtu.be/UzTJHs3-eT0)
 - **95.** [Trading Mean Reversion with Kalman Filters](https://youtu.be/BuPil7nXvMU)
 
 **Previous:**
