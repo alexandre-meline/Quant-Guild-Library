@@ -15,10 +15,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **96.** [I Bet You've Never Found Alpha (and I Can Prove It)](https://youtu.be/UzTJHs3-eT0)
-- **95.** [Trading Mean Reversion with Kalman Filters](https://youtu.be/BuPil7nXvMU)
+- **97.** [3 Backtesting Pitfalls That Ruin Your Trading Strategy](https://youtu.be/sjq3toGtr0U)
 
 **Previous:**
+- **96.** [I Bet You've Never Found Alpha (and I Can Prove It)](https://youtu.be/UzTJHs3-eT0)
+- **95.** [Trading Mean Reversion with Kalman Filters](https://youtu.be/BuPil7nXvMU)
 - **94.** [Hawkes Processes for Quant Finance](https://youtu.be/BotPHbWFRUA)
 - **93.** [Non-Stationarity and Why Market Timing Fails](https://youtu.be/7nvjrgqKjJE)
 - **92.** [Kalman Filters for Quant Finance](https://youtu.be/zVJY_oaVh-0)
