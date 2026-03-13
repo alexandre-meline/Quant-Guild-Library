@@ -15,6 +15,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **98.** [How to Get Historical Market Data with Interactive Brokers and Python](https://youtu.be/7hezNf49iKc)
 - **97.** [3 Backtesting Pitfalls That Ruin Your Trading Strategy](https://youtu.be/sjq3toGtr0U)
 
 **Previous:**
