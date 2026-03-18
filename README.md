@@ -15,10 +15,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **98.** [How to Get Historical Market Data with Interactive Brokers and Python](https://youtu.be/7hezNf49iKc)
-- **97.** [3 Backtesting Pitfalls That Ruin Your Trading Strategy](https://youtu.be/sjq3toGtr0U)
+- **99.** [Quant Ranks Retail Trading Mistakes that Blow Up Your Account](https://youtu.be/1mpNxBaBeOw)
 
 **Previous:**
+- **98.** [How to Get Historical Market Data with Interactive Brokers and Python](https://youtu.be/7hezNf49iKc)
+- **97.** [3 Backtesting Pitfalls That Ruin Your Trading Strategy](https://youtu.be/sjq3toGtr0U)
 - **96.** [I Bet You've Never Found Alpha (and I Can Prove It)](https://youtu.be/UzTJHs3-eT0)
 - **95.** [Trading Mean Reversion with Kalman Filters](https://youtu.be/BuPil7nXvMU)
 - **94.** [Hawkes Processes for Quant Finance](https://youtu.be/BotPHbWFRUA)
