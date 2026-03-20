@@ -15,6 +15,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **100.** [Black-Litterman vs. Mean-Variance Portfolio Optimization in Python](https://youtu.be/o1mCFVt79Y8)
 - **99.** [Quant Ranks Retail Trading Mistakes that Blow Up Your Account](https://youtu.be/1mpNxBaBeOw)
 
 **Previous:**
